@@ -1,6 +1,4 @@
-# Enterprise RAG Platform
-
-> A private AI assistant that answers employees from their company's own documents, built solo and shipped to production during my internship.
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.png"><img alt="Enterprise RAG Platform — A private AI assistant that answers employees from their company's own documents, shipped to production." src="assets/banner-light.png"></picture>
 
 **Internship · GS Group (video-surveillance & security, ~15 people) · Summer 2026**
 Source code belongs to the company and stays private. Happy to walk you through the architecture or demo it → **imran.nogueira@gmail.com**
